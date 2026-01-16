@@ -16,7 +16,7 @@
     "@radix-ui/react-accordion": "^0.1.6",
     "@stitches/react": "^1.2.6",
     "ethers": "^5.5.4",
-    "next": "14.0.4",
+    "next": "14.2.35",
     "next-transpile-modules": "^9.0.0",
     "react": "17.0.2",
     "react-dom": "17.0.2",
